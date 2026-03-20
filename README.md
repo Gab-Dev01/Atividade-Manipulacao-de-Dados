@@ -17,7 +17,7 @@ Projeto simples de manipulação de dados utilizando SQL.
 
 ## ▶️ Como executar
 1. Abra o MySQL Workbench
-2. Execute o arquivo `script.sql`
+2. Execute o arquivo `Atividade de Banco - Manipulação de Dados.sql`
 
 ---
 
